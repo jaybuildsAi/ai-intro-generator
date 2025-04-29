@@ -10,7 +10,7 @@ How to Run
    cd ai-intro-generator
 3. Run the Python script:
 ```bash
-python3 script.py
+python3 intro_generator.py
 ```
 
 You will be prompted to enter:
