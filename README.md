@@ -5,10 +5,8 @@ How to Run
 1. Clone the repository
    ```bash
    git clone https://github.com/jaybuildsai/ai-intro-generator.git
-2. Move into the project folder
-   ```bash
-   cd ai-intro-generator
-3. Run the Python script:
+   
+2. Run the Python script:
 ```bash
 python3 intro_generator.py
 ```
